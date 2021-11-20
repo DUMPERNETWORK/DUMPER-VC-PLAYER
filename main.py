@@ -1,9 +1,9 @@
-from pyrogram import Client as Bot
+from pyrogram import Client as Dumper
 
 from callsmusic import run
 from config import API_ID, API_HASH, BOT_TOKEN
 
-Dumper = Bot(
+dumper = Dumper(
     ":memory:",
     API_ID,
     API_HASH,
@@ -11,5 +11,5 @@ Dumper = Bot(
     plugins=dict(root="handlers")
 )
 
-Dumper.start()
+dumper.start()
 run()
