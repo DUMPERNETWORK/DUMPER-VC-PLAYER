@@ -15,14 +15,14 @@
 - **Userbot auto join**
 - **Thanks Message When Add The Bot Join On A Group**
 
-<h3>𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 📝</h3>
+<h3>𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗠𝗘𝗡𝗧𝗦 📝</h3>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-### Commands 🛠
+### 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 🛠
 - `/play <song name>` - **play song you requested**
 - `/playlist` - **Show now playing list**
 - `/current` - **Show now playing**
@@ -30,7 +30,7 @@
 - `/search <query>` - **search videos on youtube with details**
 - `/vid <song name>` - **download videos you want quickly**
 
-#### Admins only.👮🏻‍♂️
+#### 𝗔𝗗𝗠𝗜𝗡𝗦 𝗢𝗡𝗟𝗬.👮🏻‍♂️
 - `/player` - **open music player settings panel**
 - `/pause` - **pause song play**
 - `/resume` - **resume song play**
@@ -52,7 +52,7 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ```
 </details>
 
-### 𝗗𝗲𝗽𝗹𝗼𝘆 𝘁𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 🔰</h4>
+### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 🔰</h4>
 
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/DUMPERNETWORK/DUMPER-VC-PLAYER">
