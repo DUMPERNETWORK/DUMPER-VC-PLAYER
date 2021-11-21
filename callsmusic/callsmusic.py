@@ -16,12 +16,12 @@
 
 
 import config
-from pyrogram import Client as Dumper
+from pyrogram import Client
 from pytgcalls import PyTgCalls
 from queues import queues
 
-dumper = Dumper(config.SESSION_NAME, config.API_ID, config.API_HASH)
-pytgcalls = PyTgCalls(dumper)
+client = Client(config.SESSION_NAME, config.API_ID, config.API_HASH)
+pytgcalls = PyTgCalls(client)
 
 
 @pytgcalls.on_stream_end()
