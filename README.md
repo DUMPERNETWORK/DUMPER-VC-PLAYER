@@ -67,7 +67,7 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ### 𝗖𝗥𝗘𝗗𝗜𝗧𝗦❤
 
 - **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
-- [sʜᴀʀɪǫᴜᴇ](https://t.me/AnonymousTechnician)(owner)
+- [SHARIQUE](https://t.me/AnonymousTechnician)(owner)
 - [NISHITH](https://t.me/MR_NISHITH_XD)(DEV)
-- [TANAJI(https://t.me/XD_PERSON)(DEV)
+- [TANAJI](https://t.me/XD_PERSON)(DEV)
 
