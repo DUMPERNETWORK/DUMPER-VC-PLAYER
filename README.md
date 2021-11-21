@@ -1,8 +1,8 @@
 # 𝗗𝗨𝗠𝗣𝗘𝗥-𝗩𝗖-𝗣𝗟𝗔𝗬𝗘𝗥
 
-✪【𓆩Dᴜᴍᴘᴇʀ-VC-Pʟᴀʏᴇʀ𓆪】✪  ᴍᴀᴅᴇ ʙʏ ᴅᴜᴍᴘᴇʀ-ᴀʀᴍʏ
+✪【Dᴜᴍᴘᴇʀ-VC-Pʟᴀʏᴇʀ】✪  ᴍᴀᴅᴇ ʙʏ ᴅᴜᴍᴘᴇʀ-ᴀʀᴍʏ
 
-### Features✨
+### 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦✨
 
 - **Thumbnail Support**
 - **Playlist Support**
@@ -15,7 +15,7 @@
 - **Userbot auto join**
 - **Thanks Message When Add The Bot Join On A Group**
 
-<h3>Requirements 📝</h3>
+<h3>𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀 📝</h3>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
@@ -52,19 +52,19 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ```
 </details>
 
-### Deploy To Heroku 🔰</h4>
+### 𝗗𝗲𝗽𝗹𝗼𝘆 𝘁𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 🔰</h4>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Nishithreddy45/MARATHA_WARRIOR_MUSIC">
+  <a href="https://heroku.com/deploy?template=https://github.com/DUMPERNETWORK/DUMPER-VC-PLAYER">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
-### Session String 📼
+### 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗧𝗥𝗜𝗡𝗚 📼
 **Different ways to get your `SESSION`:** (Make A Dummy Account For Userbot)
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
 
 
-### Credits ❤
+### 𝗖𝗥𝗘𝗗𝗜𝗧𝗦❤
 
 - **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
 - [sʜᴀʀɪǫᴜᴇ](https://t.me/AnonymousTechnician)(owner)
