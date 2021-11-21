@@ -61,7 +61,7 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 
 ### 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗦𝗧𝗥𝗜𝗡𝗚 📼
 **Different ways to get your `SESSION`:** (Make A Dummy Account For Userbot)
-[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
+[![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://replit.com/@DUMPERNETWORK/SESSION-GENERATOR)
 
 
 ### 𝗖𝗥𝗘𝗗𝗜𝗧𝗦❤
