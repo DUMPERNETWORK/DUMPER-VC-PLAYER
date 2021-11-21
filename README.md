@@ -68,6 +68,6 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 
 - **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
 - [sʜᴀʀɪǫᴜᴇ](https://t.me/AnonymousTechnician)(owner)
-- [ɴɪsʜɪᴛʜ](https://t.me/MR_NISHITH_XD)(DEV)
-- [ᴛᴀɴᴀᴊɪ](https://t.me/XD_PERSON)(DEV)
+- [NISHITH](https://t.me/MR_NISHITH_XD)(DEV)
+- [TANAJI(https://t.me/XD_PERSON)(DEV)
 
